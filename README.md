@@ -1,2 +1,2 @@
-# impromptu-code
+# happy-teacher-day
 This project I have been used to improve my coding skills 
